@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PositivePython, I'm a Codie, an oldie coder.  My journey to the codefac is here https://positivepython.co.uk/my-coding-story/
+- 👀 I’m interested in mentoring other coders who are coming to coding later in their lives.
+- 🌱 I’m currently learning Python, Streamlit and making websites/blogs direct from Python
+- 💞️ I’m looking to collaborate on any of the apps here on my GitHub, soon I hope to have enough confidence to contribute to other products!
+- 📫 You can reach me on sean@positivepython.co.uk or @pythonpositive on Twitter
